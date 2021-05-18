@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "wise-perception-314020",
+  "private_key_id": "f9cd9b8c7500597cb236e34266ce10186b85b540",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCJgoX+Rkk/zw4w\n/sf3nIou1nEuGUJZ9uc5IrRWajV8WZ4yMySaEx8imNrG+w5nej7hJ8X43AuokV4Q\nBRb3MSD6sctG9T9RDsNc20nlgUZKhVVyBOPKFvS4tNR7n90jZerZgqNulL/3yoMG\nAtsPqrcSaoZuF5o9Ek9jVnhqqAAZWq4fUNDJ6wLKT4TAjBNsjjDHNVRZEzjy2CHt\n0vzZGtoVd88AY9KX4jh4ZXBm9tdQiWlgkFPNxap7tR5xhlhW5wQCZBY74TGv0Lcw\nqev4eLBhMzED1Eq80AD0U5KPYYioWm3lUXQAff9JEl+Bi8jTFZ/sNve8abUe0i/Z\nx2xpRA7tAgMBAAECgf8uJjVSC8S0Ot6dvY7e9b+/zbhZAEvZuu4JqYaxzx35iG95\n6YV0hXZYO3SGfeYXqa9GC/3Px18iSPyIjoIRSSuy9yMsbU0SpyG/HYQaF4i/pH/z\nWYYZYhrqN8YYDKRAJ7Q/INjjWTNpYKMYdrI4+nz2cUnXKOoFal+6YbWIFgSdJ+km\nqSm11TD2DsFYgTLIq6P8F/JQzau9jXK0kqXtsrzSL/XxFtH1R+rQI2t6SmnQDEFs\nkGM61NBXTJsOtolyygGeJR3hDCjx193F03mVu/90lTbiaWivFQSX98RvYUvAlWuI\nehqK65otNV9srmzCEZI7VkVX/oKH14xjz9rGDekCgYEAv4YhCtJPcsXkn4og0WbQ\n7g/1z6hXqcKVt5RiY4qAKXufsJqmTU0619TzqYNoLYMvdi2FWQwNpIJRkrfSFCw4\nfEkAB8ptwAA++EenJ79e0SHCT0XSgkoSQ4oTd621lsEBUDBMHtOlKnbYqB1BdJTo\nDVHvvCzgvPE7pDA52IXO1cUCgYEAt81dhMyqAlqU9WRTShn+ioJoMka1JMjL6PXO\n5Ml5qtUp9sfra9LrSYO+ja6JxgyJLCTuPar3tQK8WUAUU5O8Ul5PPspZwKtWt10j\nzC+J27PnEIVEMu7rUp4wIaBs7sct5P6TsvmgCOyc4/Ar/QVWDtoeAaoO/hA7rftp\nlxwYDwkCgYBcmfaJ6+u7+5CxzrBVbtff8tmQAL3593o6G8WCiWm0JPCuC+gSgh/M\nUUtKj52kO8SL6DCMQHasLtJQFQ6+8C6TcRxRp/9ukO/hTYu1fSLUDPWNLJ4+np+8\nBhuphtTAwirnYaK8WOqH4JSanCKUwpZ8MjyuiChVUnHazfJ6DSBXXQKBgQCnTZGg\nfcMKXXVVYLrHqp2dalJ54Q6lqvig1o46hoHu1BVcgmFyRgzRX9AlmwfhdCuwOPV6\nwJK0+waCnudhpAo5V4r+dqX30H4gbfFVvLfZegoLaaLIUd112HOrSCGfv0GxPWEn\n+jyHowi0GjuQFjldT4EctrTq4c/Q8BYO7A2iMQKBgHoGuR0QiBcd4VHzkbtDkLi/\nsyhpJGjOTnZHH5KfpX1Do6YvDEi3zDrbDM7dns8oJJXuPbhtQhRSdwrYEvINRX8i\nsaPuDiG7/1omHq+yo+7ibkPsHL23Mv17NXyHrmQoTefBzO0AuT4kEn2tLVYYTvd1\nTw9VUGNRVrzKfkdP3kaM\n-----END PRIVATE KEY-----\n",
+  "client_email": "amit-813@wise-perception-314020.iam.gserviceaccount.com",
+  "client_id": "113825596157177517516",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/amit-813%40wise-perception-314020.iam.gserviceaccount.com"
+}
