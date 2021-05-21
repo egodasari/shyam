@@ -1,5 +1,5 @@
 ---
-- hosts:  all #repo
+- hosts:  test #all #repo
   become: yes
   tasks:
           
