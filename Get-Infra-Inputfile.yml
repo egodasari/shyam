@@ -15,7 +15,9 @@
      flat: yes
     with_items: "{{ files_to_copy.files }}"
 
-  - name: Remove Files From INFRAFILES Directory.
-    win_shell: 'Remove-Item C:/Users/ansadmin/Desktop/mid.newyork-06-26-2019__patch10a-10-02-2020_10-08-2020_1523.windows.x86-64/agent/export/CloudImport/*.csv'
+    #uncomment the below play to remove older file at midserver to avoid duplicates
+
+    #  - name: Remove Files From INFRAFILES Directory.
+    # win_shell: 'Remove-Item C:/Users/ansadmin/Desktop/mid.newyork-06-26-2019__patch10a-10-02-2020_10-08-2020_1523.windows.x86-64/agent/export/CloudImport/*.csv'
     #C:/Users/ansadmin/INFRAFILES/*.txt'
     #
